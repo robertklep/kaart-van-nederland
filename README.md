@@ -7,7 +7,7 @@ met behulp van [deze instructies](http://www.intridea.com/blog/2012/4/24/symbol-
 
 ## Gebruik
 
-Zie de demo-files in `demos`.
+Zie de [simpele demo pagina](http://robertklep.github.com/kaart-van-nederland/demos/simple.html).
 
 ## Attributie
 
