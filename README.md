@@ -14,6 +14,10 @@ Zie de demo-files in `demos`.
 De kaart is afkomstig van [Wikipedia](http://nl.wikipedia.org/wiki/Bestand:Karte_der_Provinzen_\(Niederlande\)_-_nl.svg),
 en is gemaakt door Hans Erren. De kaart is in Inkscape aangepast en uiteindelijk naar `Nederland.svg` weggeschreven.
 
+## TODO
+
+Ligaturen.
+
 ## SVG converteren naar TTF
 
 In plaats van [FreeFontConverter](http://www.freefontconverter.com/)
