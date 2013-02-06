@@ -1,10 +1,10 @@
 @font-face {
   font-family : 'Nederland';
-  src         : url('nederland.eot');
-  src         : url('nederland.eot?#iefix') format('embedded-opentype'),
-                url('nederland.woff') format('woff'),
-                url('nederland.ttf') format('truetype'),
-                url('nederland.svg#testfontRegular') format('svg');
+  src         : url('nederland-webfont.eot');
+  src         : url('nederland-webfont.eot?#iefix') format('embedded-opentype'),
+                url('nederland-webfont.woff') format('woff'),
+                url('nederland-webfont.ttf') format('truetype'),
+                url('nederland-webfont.svg#testfontRegular') format('svg');
   font-weight : normal;
   font-style  : normal;
 }
