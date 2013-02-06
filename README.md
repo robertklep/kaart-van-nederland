@@ -2,7 +2,7 @@
 
 Symbool font met Nederlandse provincies als karakters. Hiermee kun je
 makkelijk, met alleen HTML en CSS, een kaart van Nederland in de browser
-tonen. Erg gebaseerd op [Stately](https://github.com/intridea/stately), en gemaakt
+tonen. Geïnspireerd door [Stately](https://github.com/intridea/stately), en gemaakt
 met behulp van [deze instructies](http://www.intridea.com/blog/2012/4/24/symbol-font).
 
 ## Gebruik
