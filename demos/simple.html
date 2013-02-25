@@ -1,7 +1,42 @@
 <!doctype html>
 <html>
   <head>
-    <link rel="stylesheet" href="../nederland/nederland.css">
+    <style>
+      @import "../nederland/nederland.css";
+
+      .nederland li {
+        font-family   : "Nederland";
+        float         : left;
+        margin-left   : -100%;
+        line-height   : 100%;
+        position      : relative;
+        left          : 101%;
+        width         : 100%;
+        list-style    : none;
+        cursor        : default;
+        color         : black;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      li[data-provincie="noord-brabant"]:before { content: 'a' }
+      li[data-provincie="gelderland"]:before    { content: 'b' }
+      li[data-provincie="friesland"]:before     { content: 'c' }
+      li[data-provincie="groningen"]:before     { content: 'd' }
+      li[data-provincie="overijssel"]:before    { content: 'e' }
+      li[data-provincie="flevoland"]:before     { content: 'f' }
+      li[data-provincie="utrecht"]:before       { content: 'g' }
+      li[data-provincie="noord-holland"]:before { content: 'h' }
+      li[data-provincie="zuid-holland"]:before  { content: 'i' }
+      li[data-provincie="zeeland"]:before       { content: 'j' }
+      li[data-provincie="limburg"]:before       { content: 'k' }
+      li[data-provincie="drenthe"]:before       { content: 'l' }
+      li[data-provincie="water"]:before         { content: 'm' }
+    </style>
   </head>
   <body>
     <div>
